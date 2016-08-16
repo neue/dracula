@@ -232,6 +232,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Function Brackets</string>
+			<key>scope</key>
+			<string>punctuation.definition.parameters</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#52FFCE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Function argument</string>
 			<key>scope</key>
 			<string>variable.parameter</string>
