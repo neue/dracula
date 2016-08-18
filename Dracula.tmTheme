@@ -221,7 +221,7 @@
 			<key>name</key>
 			<string>Function name</string>
 			<key>scope</key>
-			<string>entity.name.function, markup.heading</string>
+			<string>entity.name.function, markup.heading, meta.function-call</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -234,7 +234,7 @@
 			<key>name</key>
 			<string>Function Brackets</string>
 			<key>scope</key>
-			<string>punctuation.definition.parameters</string>
+			<string>punctuation.definition.parameters, punctuation.section.scope</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
