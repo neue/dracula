@@ -14,6 +14,8 @@
 		<string>#44475a</string>
 		<key>foreground</key>
 		<string>#6272a4</string>
+		<key>iconsHover</key>
+		<string>#f8f8f2</string>
 		<key>selectionBackground</key>
 		<string>#44475a</string>
 		<key>selectionForeground</key>
@@ -49,7 +51,7 @@
 				<key>foreground</key>
 				<string>#f8f8f2</string>
 				<key>invisibles</key>
-				<string>#3B3A32</string>
+				<string>#3f4762</string>
 				<key>lineHighlight</key>
 				<string>#44475a</string>
 				<key>selection</key>
@@ -84,6 +86,30 @@
 				<string>italic</string>
 				<key>foreground</key>
 				<string>#f1fa8c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Bold</string>
+			<key>scope</key>
+			<string>markup.bold.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#bd93f9</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown Raw</string>
+			<key>scope</key>
+			<string>markup.raw.inline.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#070524</string>
+				<key>foreground</key>
+				<string>#78E4FE</string>
 			</dict>
 		</dict>
 		<dict>
